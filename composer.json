@@ -1,0 +1,6 @@
+{
+    "require": {
+        "retailcrm/api-client-php": "~5.0",
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
